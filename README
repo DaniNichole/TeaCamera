@@ -1,18 +1,8 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Hello,
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
-
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+I looked through your code and didnt see any errors.
+When I clicked your camera button it went to the camera. I clicked "Show Camera" and it gave me an error code on line 124.
+I went and looked at it again and didnt see anything wrong.
+I ran it again and it didn't show a code but it also didn't do anything.
+Other than that your Tea Strength worked great. 
+If you didnt hit the "camera" button just right it asked me to choose again.
